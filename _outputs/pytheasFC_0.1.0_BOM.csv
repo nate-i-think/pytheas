@@ -1,0 +1,32 @@
+Qty,Designator,Value,Footprint,Manufacturer,Manufacturer Part Number
+1,AC2,LSM6DSOXTR,SamacSys_Parts:LGA-14_1,STMicroelectronics,LSM6DSOXTR
+9,"C1, C3, C5, C7, C11, C12, C16, C77, C78",100nF,Capacitor_SMD:C_0402_1005Metric,,
+2,"C2, C6",10uF,Capacitor_SMD:C_0805_2012Metric,,
+4,"C4, C15, C21, C22",1uF,Capacitor_SMD:C_0805_2012Metric,,
+2,"C8, C9",18pF,Capacitor_SMD:C_0402_1005Metric,,
+2,"C10, C18",4.7nF,Capacitor_SMD:C_0402_1005Metric,,
+3,"C13, C17, C23",100uF,Capacitor_SMD:C_1206_3216Metric,,
+1,C14,2.2uF,Capacitor_SMD:C_0805_2012Metric,,
+2,"C19, C20",47uF,Capacitor_SMD:C_1206_3216Metric,,
+1,C24,470uF,SamacSys_Parts:CAPAE830X1050N,KEMET,EDH477M016A9MAA
+1,D1,SD103AWS-E3-08,SamacSys_Parts:SOD2713X115N,Vishay Semiconductors, SD103AWS-E3-08 
+1,IC1,BMP390,SamacSys_Parts:BMP390,BOSCH,BMP390
+1,IC2,ATSAMD21G18A-MFT,SamacSys_Parts:QFN50P700X700X90-49N-D,Microchip,ATSAMD21G18A-MFT
+1,IC3,MIC24054YJL-TR,SamacSys_Parts:MIC24054YJLTR,Microchip,MIC24054YJL-TR
+1,IC4,TLV1117LV33DCYR,SamacSys_Parts:SOT230P700X180-4N,Texas Instruments,TLV1117LV33DCYR
+1,J2,USB_C_Receptacle_USB2.0_14P,Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,GCT ,USB4105-GF-A 
+1,L1,2.7uH,SamacSys_Parts:INDPM140128X650N,PULSE,PA4343.272NLT
+1,LED3,LS_R976-NR-1,SamacSys_Parts:LEDC2012X40N,ams OSRAM,LS R976-NR-1
+1,LED4,LO_R976-PS-1,SamacSys_Parts:LEDC2012X90N,ams OSRAM,LO R976-PS-1
+3,"R1, R9, R11",10k,Capacitor_SMD:C_0402_1005Metric,,
+1,R2,330R,Capacitor_SMD:C_0402_1005Metric,,
+2,"R3, R13",1k,Capacitor_SMD:C_0402_1005Metric,,
+2,"R4, R5",5k1,Capacitor_SMD:C_0402_1005Metric,,
+2,"R6, R7",2k2,Capacitor_SMD:C_0402_1005Metric,,
+1,R8,1M,Capacitor_SMD:C_0402_1005Metric,,
+1,R10,8k_1%,Capacitor_SMD:C_0402_1005Metric,,
+1,R12,1k5_1%,Capacitor_SMD:C_0402_1005Metric,,
+2,"R36, R37",1k,Resistor_SMD:R_0402_1005Metric,,
+1,SW2,SW_Push_Dual,SamacSys_Parts:FSM2J_1,TE Connectivity / P&B , 2-1437565-8 
+1,U2,USBLC6-2SC6,Package_TO_SOT_SMD:SOT-23-6,STMicroelectronics ,USBLC6-2SC6 
+1,Y1,32.768kHz,SamacSys_Parts:ECX-31B,ECS , ECS-.327-12.5-34B-TR 
