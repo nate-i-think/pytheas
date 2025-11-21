@@ -8,11 +8,19 @@ Pytheas is a custom ATSAMD21G18A-based (Cortex-M0+, arduino-compatible) flight c
    - Exposed I2C
    - Everything else you'd expect
  - BMP390 Pressure Sensor
- - LSM6DSOXTR 9-Axis IMU
+ - LSM6DSOXTR 6-Axis IMU
  - Power Regulation:
    - 5V @ 9A out (buck) with lots of capacitence  
    - 3v3 @ 1A out (LDO)
    - ~6–12V in
 
+# renderings
+![back_render](/pytheas_front_render.png)
+![front_render](/pytheas_back_render.png)
+
 # layers
 ![layers image](/pytheas_layers.png)
+
+# schematic
+![schematic image](/pytheas_schematic_pic.png)
+
