@@ -1,5 +1,5 @@
 # about pytheas
-Pytheas is a custom ATSAMD21G18A-based (Cortex-M0+, arduino-compatible) flight controller which I have designed for a self-landing, thrust vectoring rocket which is being built by ![Princeton Rocketry](https://www.princetonrocketry.com/) at Princeton University. Anyone is welcome to integrate it into their projects as long as they provide appropriate credit. However, no technical support is provided.
+Pytheas is a custom ATSAMD21G18A-based (Cortex-M0+, arduino-compatible) flight controller which I have designed for a self-landing, thrust vectoring rocket which is being built by [Princeton Rocketry](https://www.princetonrocketry.com/) at Princeton University. Anyone is welcome to integrate it into their projects as long as they provide appropriate credit. However, no technical support is provided.
 
 # features
  - ATSAMD21G18A microprocessor
