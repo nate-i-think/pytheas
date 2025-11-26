@@ -5,7 +5,7 @@ Pytheas is a custom ATSAMD21G18A-based (Cortex-M0+, arduino-compatible) flight c
  - ATSAMD21G18A microprocessor
    - Programmable via SWD (TagConnect, half-pitch DuPont) and USB
    - 10 exposed GPIO (plus 5 more extras in half-pitch)
-   - Exposed I2C
+   - Exposed I2C (recomended to connect GPS)
    - Everything else you'd expect
  - BMP390 Pressure Sensor
  - LSM6DSOXTR 6-Axis IMU
