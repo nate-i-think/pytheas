@@ -756,7 +756,7 @@
       "plot": "_outputs/pytheasFC_0.1.0_gerbers_and_drill/",
       "pos_files": "_outputs/",
       "specctra_dsn": "",
-      "step": "active_controls_0.1.0.step",
+      "step": "pytheas_0.1.0.step",
       "svg": "",
       "vrml": ""
     },
