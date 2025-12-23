@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,9.0.0*%
-%TF.CreationDate,2025-11-26T22:34:46-05:00*%
+%TF.CreationDate,2025-12-23T15:00:02-05:00*%
 %TF.ProjectId,pytheasFC_0.1.0,70797468-6561-4734-9643-5f302e312e30,0.1.0*%
 %TF.SameCoordinates,PXbcd3d80PY660b0c0*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.0) date 2025-11-26 22:34:46*
+G04 Created by KiCad (PCBNEW 9.0.0) date 2025-12-23 15:00:02*
 %MOMM*%
 %LPD*%
 G01*
@@ -66,7 +66,7 @@ D15*
 X23500000Y53735000D03*
 %TD*%
 D16*
-%TO.C,USB*%
+%TO.C,J2*%
 X19185000Y27260000D03*
 X19185000Y33040000D03*
 D17*
@@ -109,7 +109,7 @@ D15*
 X2000000Y30740000D03*
 %TD*%
 D19*
-%TO.C,SWD*%
+%TO.C,J3*%
 X11470000Y24565000D03*
 X6390000Y23549000D03*
 X6390000Y25581000D03*
